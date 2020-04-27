@@ -1,5 +1,5 @@
 # Synthesis-of-COVID-19-CT-Scan
-We built a generation model to synthesize the corresponding COVID-19 infection CT scan from a non-COVID CT.
+We built a generation model to synthesize the corresponding COVID-19 infection CT scan from a non-COVID CT. The model and code will be public available soon.
 
 To mitigate the absence of sufficient public COVID-19 data, a generation model to synthesize the corresponding COVID-19 infection CT scan from a non-COVID CT is presented here. 
 
