@@ -10,4 +10,4 @@ In this work, the public COVID-19 CT data provided by [covid-chestxray-dataset](
 
 ## Verifaction with CAM
 A classification model with ResNet-18 are trained on the COVID-19 data and LUNA16 data, and then CAM（Class Activation Map）is employed to visualize the CNN feature activation. By mixing the real COVID-19 data and the generated ones, the performance of CAM has been modified.
-![](CAMResult.png)
+![](Images/CAMResult.png)
