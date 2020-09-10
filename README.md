@@ -1,7 +1,7 @@
 # Synthesis-of-COVID-19-CT-Scan
 We built a generation model to synthesize the corresponding COVID-19 infection CT scan from a non-COVID CT. The model and code will be public available soon.
 
-To mitigate the absence of sufficient public COVID-19 data, a generation model to synthesize the corresponding COVID-19 infection CT scan from a non-COVID CT is presented here. 
+To mitigate the absence of sufficient public COVID-19 data, a generation [model] (https://www.dropbox.com/s/q7lgan4t6ehs0gh/Get%20Started%20with%20Dropbox%20Paper.url?dl=0) to synthesize the corresponding COVID-19 infection CT scan from a non-COVID CT is presented here. 
 
 In this work, the public COVID-19 CT data provided by [covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset) are employed to train the a generation model.
 
